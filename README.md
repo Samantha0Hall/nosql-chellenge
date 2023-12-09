@@ -1,2 +1,2 @@
-# nosql-chellenge
+# nosql-challenge
 Module 12 Challenge
